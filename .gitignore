@@ -1,0 +1,7 @@
+# 除外したいファイルやディレクトリ
+front/uploads/
+back/config.php
+back/db_connect.php
+
+# データベース関連
+database/create_tables.php
